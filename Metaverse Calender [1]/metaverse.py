@@ -6,7 +6,6 @@ def readFile(file):  # read the date from a file
 
   return content
 
-
 def find_lcm(list):  # find the LCM of a list of any length
   lowest_common_multiple = 0
 
